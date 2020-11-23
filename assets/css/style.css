@@ -163,6 +163,8 @@ html, body {
 }
 
 .site-logo img {
+    width:23%;
+    height:30%;
     padding-bottom: 2px;
 }
 
@@ -170,7 +172,7 @@ html, body {
 .navbar-nav > li > a {
     padding: 5px 0;
     font-weight: 600;
-    color: #212121;
+    color: #636363;
     text-transform: uppercase;
     border-bottom: 2px solid transparent;
     transition: border-color 0.25s ease-in-out;
